@@ -1,0 +1,1 @@
+ADDED BOOLEAN attibute "burnout" to staff table to account for letting users know when a staff member has been burnout

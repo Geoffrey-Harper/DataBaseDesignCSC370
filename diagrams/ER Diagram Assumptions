@@ -1,0 +1,12 @@
+1. That Campaign and phase logs are one-to-one
+2. Donations pay for Office, Rent, Staff Salary, and Campaign funding
+3. Items like posters, signs ect. are bought for specific events
+4. Campaign funds are used to purchase Items 
+5. Campaign Start and End dates are assumed to be input with a minimum end date
+   2 weeks or a maximum end date of 2 months
+6. Volunteer Salaries are assumed to be $0 and Employee Salaries are greater
+   than $0
+7. Since it is assumed the Company Offices are uniquely idetifiable via Office
+   Name.
+8. The donations don't need an audit date because they only want to disclose the
+   date to the head of the company

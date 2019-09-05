@@ -1,0 +1,1 @@
+Add the ability to create a website log instance with a campaingID and website log ID

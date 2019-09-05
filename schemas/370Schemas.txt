@@ -1,0 +1,21 @@
+Schemas are written via the NULL method
+
+ENTITIES: 
+
+Memebers(MemeberId,MemeberName)
+Items(ItemId,ItemName,Cost)
+Events(EventId,CampaignId,EventName,EventStartDate,EventEndDate,EventLocation)
+Campaign(CampaignId,CampaignName,CampaignStartDate,CampaignEndDate,CampaignLocation,CampaignLocation,Cost)
+Donations(DonationId,Donator,Amount)
+Staff(StaffId,StaffName,Salary,Tier,NumberOfCampaigns,Burnout)
+Office(OfficeName,RentPrice)
+WebsiteLog(LogId,CampaignId,PushDate,PhaseNumber)
+
+RELATIONS:
+
+Supports(MemeberId,CampaignId)
+IsFundedBy(DonationId,CampaignId)
+PurchasedFor(ItemId,StaffId)
+ContributesTo(DonationId,OfficeName)
+ParticipatesIn(campaignId,staffId)
+PaysFor(donationId,staffId)	
