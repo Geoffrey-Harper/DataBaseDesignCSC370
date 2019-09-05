@@ -1,0 +1,72 @@
+CSC 370 -- SUMMER 2019
+ASSIGNMENT #4 EVALUATION
+========================
+
+  Student name:      Harper, Geoffrey
+  Student number:    V00866723
+  Student login:     geoffreyharper
+
+  Database name:     gambia
+  Database password: VRlwBXviGZ
+
+
+-----
+(1) Phase 1: 
+
+* The program features an interactive menu that allows users to
+  effectively navigate through all queries from A#3. The formatting of
+  most of the queries output is practical.
+
+* The queries are clearly described to the user in the menu.
+
+* The formatting of most of the queries output could be improved to
+  facilitate readability.
+
+
+-----
+(2) Phases 2, 3, and 4:
+
+---P2
+
+* The program allows setting up campaigns, events, and volunteers
+  assigned to campaigns/events in a proper manner.
+
+* The program does not feature functionality to assess the state of a
+  campaign at any step of the setup process.
+
+---P3
+
+* The information being presented to the user is being communicated
+  properly and allows understanding and analyzing funds inflows and
+  outflows.
+
+* Basic graphical reports (e.g, ASCII bar charts) were considered.
+
+---P4
+
+* The information being presented to the user is being communicated
+  properly and might be useful for understanding and analyzing the
+  participation of members in campaigns/events.
+
+* Annotations were not considered. However, the student considered a
+  new column for indicating whether a member of a campaign has too
+  much work to do.
+
+
+-----
+(3) Phase 5 (brief description, assessment):
+
+* Description: Management of website logs (i.e., pushing out campaigns
+  to the website).
+
+* The additional interaction with the database can be considered as
+  sufficiently relevant for the organization being addressed.
+
+ 
+-----
+(4) Other comments
+
+* Error handling was considered in this submission.
+ 
+-----
+GRADE: B+

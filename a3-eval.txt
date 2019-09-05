@@ -1,0 +1,53 @@
+CSC 370 -- SUMMER 2019
+ASSIGNMENT #3 EVALUATION
+========================
+
+  Student name:      Harper, Geoffrey
+  Student number:    V00866723
+  Student login:     geoffreyharper
+
+  Database name:     gambia
+  Database password: VRlwBXviGZ
+
+
+-----
+(1) Database modelling (E-R diagrams, SQL relations)
+
+* A very comprehensive and well-prepared diagram that properly covers
+  significant aspects of the problem description.
+
+* The diagram is understandable and follows an expected/appropriate
+  syntax.
+
+
+-----
+(2) SQL table creation
+
+* SQL statements for both creating tables and populating them were
+  included.
+
+* The code is clear and understandable.
+
+* Some data validations (checks) were included.
+
+
+-----
+(3) SQL queries (ten)
+
+* Student did not specify the questions, but most of queries could be
+  considered as interesting.
+
+* There is no a clear definition of the questions being answered by
+  the proposed queries, which makes it difficult to understand their
+  relevance.
+
+* Lack of views when defining the queries.
+
+ 
+-----
+(4) Other comments
+
+
+ 
+-----
+GRADE: B+
